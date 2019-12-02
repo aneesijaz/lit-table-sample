@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <script type="module" src="./Table.js"></script>
+  <title>Document</title>
+</head>
+<body>
+  <lit-table id="myTable" test="aaaaaaaaaaaaaa"></lit-table>
+<script> 
+  let myTable = document.querySelector("#myTable");
+  myTable.columns = ["id", "name", "city"];
+  myTable.rows = [
+    { id: 1, name: 'Anees Ijaz', city: "Gujrat" },
+    { id: 2, name: 'Mazan', city: 'Gujrat' },
+    { id: 3, name: 'asdkashdj', city: 'Gujrat' },
+    { id: 4, name: 'a9q78933', city: 'Gujrat' },
+    { id: 5, name: '54687aehas', city: 'Gujrat' },
+    { id: 4, name: 'a9q78933', city: 'Gujrat' },
+    { id: 5, name: '54687aehas', city: 'Gujrat' }
+  ];
+  </script>
+</body>
+</html>

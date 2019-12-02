@@ -1,0 +1,29 @@
+{
+  "name": "lit-table-sample",
+  "version": "1.0.0",
+  "description": "simple practice web component written in litelement.",
+  "main": "index.html",
+  "dependencies": {
+    "lit-element": "^2.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "polymer serve .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aneesijaz/lit-table-sample.git"
+  },
+  "keywords": [
+    "js",
+    "litelement",
+    "webcomponents"
+  ],
+  "author": "Anees Ijaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aneesijaz/lit-table-sample/issues"
+  },
+  "homepage": "https://github.com/aneesijaz/lit-table-sample#readme"
+}
