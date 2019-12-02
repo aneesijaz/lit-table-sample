@@ -10,6 +10,8 @@ open command prompt/ terminal and type
 ```bash
 cd dir_to_install_int
 git clone https://github.com/aneesijaz/lit-table-sample.git .
+npm install polymer -g
+npm install
 ```
 
 ## Usuage
