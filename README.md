@@ -12,6 +12,7 @@ cd dir_to_install_int
 git clone https://github.com/aneesijaz/lit-table-sample.git .
 npm install polymer -g
 npm install
+npm start
 ```
 
 ## Usuage
